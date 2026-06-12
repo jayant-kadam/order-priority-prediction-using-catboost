@@ -60,10 +60,10 @@ This project is a ML-powered web application built using Streamlit that predicts
 
 <li>Create a project folder and copy all downloaded files into it.</li>
 
-<li>Run the <strong>rf_catboost.py</strong> file using your preferred IDE.</li>
+<li>Run the <strong>app.py</strong> file using your preferred IDE.</li>
 
 <li>
-        Upload the <strong>pred order priority</strong> CSV file and the model will predict
+        Upload the <strong>priority_test</strong> CSV file and the model will predict
         Order Priority and generate an interactive dashboard.
 </li>
 
