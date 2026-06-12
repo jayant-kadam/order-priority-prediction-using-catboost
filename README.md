@@ -44,7 +44,6 @@ This project is a ML-powered web application built using Streamlit that predicts
     <li>Matplotlib</li>
     <li>Seaborn</li>
     <li>Scikit-learn</li>
-    <li>Random Forest Classifier</li>
     <li>CatBoost</li>
 </ul>
 
