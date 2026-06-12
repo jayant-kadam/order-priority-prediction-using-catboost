@@ -47,6 +47,37 @@ This project is a ML-powered web application built using Streamlit that predicts
     <li>CatBoost</li>
 </ul>
 
+<h2>Installation Instructions </h2>
+
+<ol>
+<li>
+        Download all the files from the GitHub repository:
+        <br>
+        <a href="https://github.com/jayant-kadam/order-priority-prediction-using-catboost">
+            GitHub Repository
+        </a>
+</li>
+
+<li>Create a project folder and copy all downloaded files into it.</li>
+
+<li>Run the <strong>rf_catboost.py</strong> file using your preferred IDE.</li>
+
+<li>
+        Upload the <strong>pred order priority</strong> CSV file and the model will predict
+        Order Priority and generate an interactive dashboard.
+</li>
+
+<li>Input data must be provided in <strong>.csv</strong> format.</li>
+
+<li>
+        The input CSV file must contain the following columns:
+        <pre>
+ROW ID, Order ID, Order Date, Ship Date, Ship Mode, Customer ID, Customer Name, Segment, City, State, Country, Market,
+Region, Product ID, Category, Sub-Category, Product Name, Sales, Quantity, Discount, Shipping Cost, Profit, Order Year,
+Order Month, Order Day, Ship Year, Ship Month, Ship Day, Delivery Time, Cost
+        </pre>
+</li>
+</ol>
 <h2>Author</h2>
 
 <p>
