@@ -71,11 +71,11 @@ This project is a ML-powered web application built using Streamlit that predicts
 
 <li>
         The input CSV file must contain the following columns:
-        <pre>
+        <p>
 ROW ID, Order ID, Order Date, Ship Date, Ship Mode, Customer ID, Customer Name, Segment, City, State, Country, Market,
 Region, Product ID, Category, Sub-Category, Product Name, Sales, Quantity, Discount, Shipping Cost, Profit, Order Year,
 Order Month, Order Day, Ship Year, Ship Month, Ship Day, Delivery Time, Cost
-        </pre>
+        </p>
 </li>
 </ol>
 <h2>Author</h2>
