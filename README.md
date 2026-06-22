@@ -78,6 +78,38 @@ Order Month, Order Day, Ship Year, Ship Month, Ship Day, Delivery Time, Cost
         </p>
 </li>
 </ol>
+
+<h2>Prreview</h2>
+
+<h3>Home Page</h3>
+<p align="center">
+  <img src="screenshot/home-page.png" width="500">
+</p>
+
+<h3>File Upload</h3>
+<p align="center">
+  <img src="screenshot/file-uploader.png" width="500">
+</p>
+
+<h3>Uploaded File Preview And Prediction Preview</h3>
+<p align="center">
+  <img src="screenshot/file-preview-and-prediction.png" width="500">
+</p>
+
+<h3>Count Of Unique Predictions</h3>
+<p align="center">
+  <img src="screenshot/prediction-count.png" width="500">
+</p>
+
+<h3>Dashboad</h3>
+<p align="center">
+  <img src="screenshot/kpi-dashboard.png" width="500">
+</p>
+
+<p align="center">
+  <img src="screenshot/dashboard-download.png" width="500">
+</p>
+
 <h2>Author</h2>
 
 <p>
