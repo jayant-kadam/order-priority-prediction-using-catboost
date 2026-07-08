@@ -5,6 +5,16 @@
 This project is a ML-powered web application built using Streamlit that predicts Order Priority from e-commerce order data. The application allows users to upload a CSV file, generate predictions using CatBoost model, visualize insights through interactive dashboards, and download prediction outputs.
 </p>
 
+<h2>Problem Statement</h2>
+<p>
+Businesses process thousands of customer orders every day, making it difficult to manually assign the correct order priority. Incorrect prioritization can lead to delayed deliveries, inefficient resource allocation, and reduced customer satisfaction. An automated solution is needed to accurately predict order priority based on historical order data.
+</p>
+
+<h2>Solution</h2>
+<p>
+This project provides a Machine Learning-based solution that predicts order priority using CatBoost model. Built with Streamlit, the application allows users to upload order data, generate predictions, visualize insights through interactive dashboards, compare model outputs, and download prediction results for further analysis.
+</p>
+
 <h2>Features</h2>
 
 <h3>🐈 CatBoost Model</h3>
