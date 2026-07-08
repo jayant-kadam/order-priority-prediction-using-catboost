@@ -87,6 +87,11 @@ Region, Product ID, Category, Sub-Category, Product Name, Sales, Quantity, Disco
 Order Month, Order Day, Ship Year, Ship Month, Ship Day, Delivery Time, Cost
         </p>
 </li>
+
+<li>
+    Also alternatively, one can try online version by clicking on link below:
+    https://order-priority-prediction-using-catboost.streamlit.app/
+</li>
 </ol>
 
 <h2>Prreview</h2>
